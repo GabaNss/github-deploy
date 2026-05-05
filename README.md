@@ -1,2 +1,2 @@
 # github-deploy
-README 2
+README
